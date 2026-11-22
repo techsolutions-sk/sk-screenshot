@@ -10,11 +10,15 @@ SK Screenshot does not collect, sell or share any personal information. It has n
 
 ## Screenshots stay on your PC
 
-Screenshots you capture are kept in memory and saved only where you choose (a file, or the clipboard). App settings are stored only on your PC, in your Windows user profile. Your upload history is saved on your PC in the Pictures\SK Screenshot folder.
+Screenshots you capture are kept in memory and saved only where you choose (a file, the clipboard or your printer). App settings and your upload history are stored only on your PC, in your Windows user profile.
 
 ## Optional upload
 
-SK Screenshot can upload a screenshot only when you press the Upload button. Before the first upload the app asks for your permission. The image is then sent to catbox.moe, a third-party image hosting service, which returns a public link. Anyone with that link can view the image, so do not upload screenshots containing private information. Uploaded images are handled under catbox.moe's own terms and privacy policy (https://catbox.moe). SK Screenshot does not send any other data.
+SK Screenshot can upload a screenshot only when you choose Upload (or Instant upload). Before the first upload the app asks for your permission. The image is then sent to catbox.moe, a third-party image hosting service, which returns a public link. Anyone with that link can view the image, so do not upload screenshots containing private information. Uploaded images are handled under catbox.moe's own terms and privacy policy (https://catbox.moe). If you set a proxy in the app's options, uploads are sent through that proxy. SK Screenshot does not send any other data.
+
+## Share and search buttons
+
+If you choose to share a link to X (Twitter), Facebook or WhatsApp, or use Search similar (Google Lens), SK Screenshot opens that website in your web browser. What you do there is covered by that website's own privacy policy.
 
 ## Children
 
