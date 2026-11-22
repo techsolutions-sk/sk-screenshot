@@ -1,10 +1,10 @@
-# ScreenCut - Screenshot Tool: Privacy Policy
+# SK Screenshot: Privacy Policy
 
 Last updated: 22 November 2026
 
-ScreenCut - Screenshot Tool ("ScreenCut") is published by Tech Solutions SK. This policy explains what happens to your data when you use the app.
+SK Screenshot (the app shows itself as "ScreenCut" on your PC; both names are used below) is published by Tech Solutions SK. This policy explains what happens to your data when you use the app.
 
-## What ScreenCut collects
+## What the app collects
 
 ScreenCut does not collect, sell or share any personal information. It has no accounts, no ads, no analytics and no tracking.
 
