@@ -6,7 +6,7 @@ A fast, free screenshot tool for Windows by Tech Solutions SK.
 - Annotate, then save, copy, print or share
 - Optional one-click upload to get a shareable link
 
-Get it from the Microsoft Store: https://apps.microsoft.com/detail/9MVW81KM1HWB
+Get it from the Microsoft Store: https://apps.microsoft.com/detail/9NZPFGD070ZB
 
 Privacy policy: https://techsolutions-sk.github.io/sk-screenshot/privacy
 
