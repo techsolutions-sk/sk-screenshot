@@ -1,4 +1,4 @@
-# ScreenCut - Screenshot Tool
+# SK Screenshot (ScreenCut)
 
 A fast, free screenshot tool for Windows by Tech Solutions SK.
 
